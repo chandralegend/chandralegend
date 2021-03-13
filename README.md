@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello Dudes 👋
 ![Profile Views](https://komarev.com/ghpvc/?username=chandralegend&color=brightgreen)
 [![Portfolio](https://img.shields.io/badge/Visit-Portfolio-blueviolet)](http://chandralegend.github.io/)
 
