@@ -2,7 +2,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=chandralegend&color=brightgreen)
 [![Portfolio](https://img.shields.io/badge/Visit-Portfolio-blueviolet)](http://chandralegend.github.io/)
 
-I am Chandra Irugalbandara. Visit my [portfolio](http://chandralegend.github.io/) to learn more about me. 😄
+I am Chandra Irugalbandara. Currently I am Electrical Engineering undergraduate at University of Moratuwa. Other than coding, i like to cook (mainly baking) and petting my dog(Bonnie). Visit my [portfolio](http://chandralegend.github.io/) to learn more about me. 😄
 
 <!--
 <a href="https://github.com/chandralegend">
