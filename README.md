@@ -1,14 +1,14 @@
-### Hello World 👋
+### Howdy, partner! 👋
 ![Profile Views](https://komarev.com/ghpvc/?username=chandralegend&color=brightgreen)
 [![Portfolio](https://img.shields.io/badge/Visit-Portfolio-blueviolet)](http://chandralegend.github.io/)
 
-I am Chandra Irugalbandara. Currently I am Electrical Engineering undergraduate at University of Moratuwa. Other than coding, i like to cook (mainly baking).
+I am Chandra Irugalbandara. Currently, I am an Electrical Engineering undergraduate at the University of Moratuwa. Other than coding, I like to cook (mainly baking).
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on MoraGPA App
 - 🌱 I’m currently learning GraphQL & Software Engineering Principles
-- ⚡ Fun fact: Pet Rats Sold Big After Ratatouille
+- ⚡ Fun fact: listening to Opera Music while being drunk is the bomb!
 <!--
 **chandralegend/chandralegend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
