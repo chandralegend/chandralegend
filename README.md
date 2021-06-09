@@ -6,8 +6,8 @@ I am Chandra Irugalbandara. Currently, I am an Electrical Engineering undergradu
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on MoraGPA App
-- 🌱 I’m currently learning GraphQL & Software Engineering Principles
+- 🔭 I’m currently working on MoraGPA App & Career Fair Platform
+- 🌱 I’m currently learning GraphQL, Firebase & Software Engineering Principles
 - ⚡ Fun fact: listening to Opera Music while being drunk is the bomb!
 <!--
 **chandralegend/chandralegend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
