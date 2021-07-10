@@ -1,6 +1,6 @@
 ### Howdy, partner! 👋
 ![Profile Views](https://komarev.com/ghpvc/?username=chandralegend&color=brightgreen)
-[![Portfolio](https://img.shields.io/badge/Visit-Portfolio-blueviolet)](http://chandralegend.github.io/)
+[![Portfolio](https://img.shields.io/badge/Visit-Portfolio-blueviolet)](http://chandralegend.me/)
 
 I am Chandra Irugalbandara. Currently, I am an Electrical Engineering undergraduate at the University of Moratuwa. Other than coding, I like to cook (mainly baking).
 
