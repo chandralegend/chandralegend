@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on MoraGPA App & Career Fair Platform
 - 🌱 I’m currently learning GraphQL, Firebase & Software Engineering Principles
-- ⚡ Fun fact: listening to Opera Music while being drunk is the bomb!
+- ⚡ Fun fact: listening to Opera Music while drinking 🍺 is the bomb!
 <!--
 **chandralegend/chandralegend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
