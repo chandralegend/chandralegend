@@ -6,8 +6,10 @@ I am Chandra Irugalbandara. Currently, I am an Electrical Engineering undergradu
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on MoraGPA App, HomeIO(Offline Home Automation System)
-- 🌱 I’m currently learning GraphQL, Software Engineering Principles
+- 🔭 I’m currently working on Unimate, HomeIO
+- 🌱 I’m currently learning Software Engineering Architectural Design
 - 👯 I’m looking to collaborate on ML related services
 - ⚡ Fun fact: listening to Opera Music while drinking 🍺  is the bomb!
 - 😄 Pronouns: 🪑 🍎 
+
+
