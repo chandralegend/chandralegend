@@ -6,3 +6,7 @@
 
 
 Hello! My name is Chandra Irugalbandara, and I’m excited to meet you. I graduated from the University of Moratuwa and am currently working for United Health Group (through Virtusa).
+
+Working Projects
+- VibeLang: Cool language that GenAI Feature Integration easier to any codebase.
+- TalentZap: Stealth Startup (Hint: Empowering Talents to develop while making talent acquisition efficient)
