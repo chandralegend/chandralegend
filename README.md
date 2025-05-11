@@ -9,4 +9,5 @@ Hello! My name is Chandra Irugalbandara, and I’m excited to meet you. I gradua
 
 Working Projects
 - VibeLang: Cool language that GenAI Feature Integration easier to any codebase.
+- SOFIA: Create Agents that are enterprise grade reliable.
 - TalentZap: Stealth Startup (Hint: Empowering Talents to develop while making talent acquisition efficient)
