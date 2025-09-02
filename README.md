@@ -5,7 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/realchandralegend/)
 
 
-Hello! My name is Chandra Irugalbandara, and I’m excited to meet you. I graduated from the University of Moratuwa and am currently working for United Health Group (through Virtusa).
+Hello! My name is Chandra Irugalbandara, and I’m excited to meet you. I graduated from the University of Moratuwa. Ex-UHG/Optum, Ex-Virtusa, Ex-Man😂.
 
 Working Projects
 - VibeLang: Cool language that GenAI Feature Integration easier to any codebase.
