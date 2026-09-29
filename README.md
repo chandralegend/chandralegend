@@ -1,5 +1,3 @@
-## Chandra Irugalbandara
-
 AI engineer and researcher in Colombo. I build reliable AI systems and open-source tools for working with language models.
 
 Associate Technical Lead at [Stekz](https://www.stekz.com) · Researcher & Builder at [Leaf Monkey Labs](https://leafmonkey.org)
