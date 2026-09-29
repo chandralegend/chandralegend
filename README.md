@@ -1,8 +1,12 @@
-### Howdy, Partner! 👋
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandralegend)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/realchandralegend/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/cirugal)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/realchandralegend/)
+## Chandra Irugalbandara
 
+AI engineer and researcher in Colombo. I build reliable AI systems and open-source tools for working with language models.
 
-Hello! My name is Chandra Irugalbandara, and I’m excited to meet you. I graduated from the University of Moratuwa. Ex-UHG/Optum, Ex-Virtusa.
+Associate Technical Lead at [Stekz](https://www.stekz.com) · Researcher & Builder at [Leaf Monkey Labs](https://leafmonkey.org)
+
+**Research**
+
+- [Scaling Down to Scale Up](https://arxiv.org/abs/2312.14972) — IEEE ISPASS 2024, first author
+- [Meaning Typed Prompting](https://arxiv.org/abs/2410.18146) — arXiv 2024
+
+[Website](https://chandralegend.github.io) · [LinkedIn](https://www.linkedin.com/in/chandralegend/) · [Google Scholar](https://scholar.google.com/citations?user=VepbpE8AAAAJ)
