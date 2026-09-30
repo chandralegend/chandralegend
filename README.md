@@ -1,6 +1,11 @@
-AI engineer and researcher in Colombo. I build reliable AI systems and open-source tools for working with language models.
+AI engineer and researcher in Colombo. I build reliable AI systems, and products that put language models to real work.
 
 Associate Technical Lead (AI) at [Gapstars](https://www.gapstars.net) · Founder of [Leaf Monkey Labs](https://leafmonkey.org) · Visiting Lecturer at University of Moratuwa
+
+**Building**
+
+- [Salli](https://salli.leafmonkey.org) — personal finance and tax planning for Sri Lanka
+- [Pinglo](https://pinglo.leafmonkey.org) — an AI assistant that turns enquiries into paid bookings
 
 **Research**
 
